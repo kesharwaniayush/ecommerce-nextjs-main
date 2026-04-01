@@ -167,15 +167,6 @@ This project helps you understand:
 - ✅ UI composition  
 - ✅ Dashboard design  
 
----
-
-## 📊 Preview
-
-> Add more screenshots if needed 👇
-
-```
-/public/readme/dashboard.png
-/public/readme/storefront.png
 ```
 
 ---
