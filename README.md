@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/public/readme/banner.png" width="100%" alt="E-commerce Preview Banner"/>
+  <img src="/public/banner.png" width="100%" alt="E-commerce Preview Banner"/>
 </p>
 
 <h1 align="center">🛍️ E-Commerce Next.js</h1>
